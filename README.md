@@ -1,5 +1,5 @@
-# eukw-dump
-> Try to dump EUKW (Elektroniczne Księgi Wieczyste) database
+# eukw-webscraper
+> Try to scrape EUKW (Elektroniczne Księgi Wieczyste) data
 
 
 Experiment failed. Need to run it behind some sort of proxy like https://brightdata.com/
